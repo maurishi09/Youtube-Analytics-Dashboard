@@ -8,7 +8,7 @@ Built KPI-focused report pages tracking uploads, views, and subscriber counts ac
 
 ## Dashboard
 
-![YouTube analytics dashboard](Dashboard Image 1.png)
+(![YouTube analytics dashboard](Dashboard%20Image%201.png))
 
 Key metrics: 301K maximum uploads by a single channel, 165.73M average views in the last 30 days, and 9M total uploads tracked across the dataset.
 
